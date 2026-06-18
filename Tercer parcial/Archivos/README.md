@@ -20,12 +20,12 @@ Para que el programa encuentre correctamente tus ejercicios, el proyecto está o
 ```text
 📁 Proyecto-Principal/
 │
-├── 📁 1er Parcial/               # Contiene los .cpp del primer parcial
+├── 📁 1er Parcial/               # Contiene los ejercicios del primer parcial
 │   ├── 1-ejercicio.cpp
 │   ├── 2-ejercicio.cpp
 │   └── ...
 │
-├── 📁 2do Parcial/               # Contiene las carpetas del segundo parcial
+├── 📁 2do Parcial/               # Contiene las ejercicios del segundo parcial
 │   ├── 📁 pila-arreglo/          
 │   ├── 📁 cola-puntero/
 │   └── 📁 lista-libreria/
